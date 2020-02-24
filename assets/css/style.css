@@ -1,0 +1,31 @@
+main {
+    width: 900px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    border: none;
+    background-color: orange;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 20px;
+}
+
+h1:hover {
+    color: gray;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    color: gray;
+    background-color: red;
+}
