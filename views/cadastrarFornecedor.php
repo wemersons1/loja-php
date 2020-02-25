@@ -1,5 +1,5 @@
 <h1>Digite os dados abaixo</h1>
-<form>
+<form action="index.php?rota=salvar-fornecedor" method="POST"> 
     <fieldset>
         
         <legend>Dados do fornecedor</legend>
