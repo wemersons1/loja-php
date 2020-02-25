@@ -11,6 +11,9 @@ switch($rota) {
     case 'home':
         load_view('home','Bem vindo');
     break;
+    case 'cadastrar-fornecedor':
+        load_view('cadastrarFornecedor', 'Cadastro de Fornecedor');
+    break;
     default:
         load_view('404', 'Página não encontrada!');
     break;

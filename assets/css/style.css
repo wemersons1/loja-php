@@ -29,3 +29,13 @@ h1:hover {
     color: gray;
     background-color: red;
 }
+
+.btn-send {
+    background-color: blue;
+    border: none; /*retirar borda*/
+    border-radius: 5px;/* arredondamento de quina de botão*/
+    color: white;/* cor do texto dentro do botão*/
+    padding: 10px;/*Espaço entre o conteúdo e a borda*/
+    cursor: pointer;/*Mudando para mãozinha*/
+     
+}
