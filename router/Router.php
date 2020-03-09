@@ -36,7 +36,6 @@ class Router {
             case '/fornecedores/index':
                 $this->fornecedoresController->index();
             break;
-            
             default:
                 load_view('404', 'Página não encontrada!');
             break;

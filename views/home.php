@@ -2,7 +2,7 @@
 <h2>O maior site de comércio eletrônico</h2>
 
 
-<a class="button" href="index.php?rota=cadastrar-produto">Cadastrar Produtos</a>
-<a class="button" href="index.php?rota=cadastrar-fornecedor">Cadastrar Fornecedor</a>
-<a class="button" href="index.php?rota=listar-produtos">Listar Produto</a>
-<a class="button" href="index.php?rota=listar-fornecedores">Listar Fornecedor</a>
+<a class="button" href="/loja-php/produtos/create">Cadastrar Produtos</a>
+<a class="button" href="/loja-php/fornecedores/create">Cadastrar Fornecedor</a>
+<a class="button" href="/loja-php/produtos/index">Listar Produto</a>
+<a class="button" href="/loja-php/fornecedores/index">Listar Fornecedor</a>
